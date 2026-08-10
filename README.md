@@ -1,6 +1,8 @@
-# Asynchronous Activity 1
+# CS3
 
-#14 Quiambao, King Berlin M.
+## #14 Quiambao, King Berlin M.
 9-Samat
 
-Hello! I am bored.
+Hello!
+
+
