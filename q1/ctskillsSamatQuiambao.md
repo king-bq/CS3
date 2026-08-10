@@ -1,8 +1,8 @@
 # **Annex B**
 ## **Computational Thinking Exercise: "Smart Vending Machine"**
-Section: 9-Samat                            Score:____________
+Section: 9-Samat &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; Score:
 
-C# / Name: #14 Quiambao, King Berlin M.     Date: 08/10/2026
+C# / Name: #14 Quiambao, King Berlin M. &emsp; Date: 08/10/2026
 
 ### **Scenario**
 
