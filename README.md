@@ -10,3 +10,7 @@ Hello!
 SG2 Act 1: https://github.com/king-bq/CS3/blob/main/q1/q1_sg2_a1.md
 
 SG2 Act 3: https://github.com/king-bq/CS3/blob/main/q1/q1_sg2_a3.py
+
+Car Game Act: https://github.com/king-bq/CS3/blob/main/q1/q1_mycar_samat_quiambao.py
+
+SG6 Act 1:
