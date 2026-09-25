@@ -18,3 +18,4 @@ SG7 Lab Inventory Hierarchy: https://github.com/king-bq/CS3/blob/main/q1/q1_sg7_
 ### Q1 Sample Codes
 
 Car Game Act: https://github.com/king-bq/CS3/blob/main/q1/q1_mycar_samat_quiambao.py
+4 Relationships: https://github.com/king-bq/CS3/blob/main/q1/4Relationships.py
