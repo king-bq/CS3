@@ -15,6 +15,8 @@ SG6 Challenge 1: https://github.com/king-bq/CS3/blob/main/q1/q1_sg6_samat_quiamb
 
 SG7 Lab Inventory Hierarchy: https://github.com/king-bq/CS3/blob/main/q1/q1_sg7_samat_quiambao.py
 
+SA: https://github.com/king-bq/CS3/blob/main/q1/q1_sa_samat_quiambao.py
+
 ### Q1 Sample Codes
 
 Car Game Act: https://github.com/king-bq/CS3/blob/main/q1/q1_mycar_samat_quiambao.py
