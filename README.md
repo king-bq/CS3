@@ -22,3 +22,7 @@ SA: https://github.com/king-bq/CS3/blob/main/q1/q1_sa_samat_quiambao.py
 Car Game Act: https://github.com/king-bq/CS3/blob/main/q1/q1_mycar_samat_quiambao.py
 
 4 Relationships: https://github.com/king-bq/CS3/blob/main/q1/4Relationships.py
+
+### Q2 Activities
+
+FA1: 
