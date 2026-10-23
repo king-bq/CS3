@@ -26,3 +26,5 @@ Car Game Act: https://github.com/king-bq/CS3/blob/main/q1/q1_mycar_samat_quiamba
 ### Q2 Activities
 
 FA1: https://github.com/king-bq/CS3/blob/main/q2/fa1_samat_quiambao.py
+
+FA2: https://github.com/king-bq/CS3/blob/main/q2/fa2_samat_quiambao.py
